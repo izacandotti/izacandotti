@@ -7,7 +7,7 @@
 
 Olá, eu sou a Iza!
 
-Estou atualmente me dedicando à pesquisa e desenvolvimento, buscando aprimorar minhas habilidades de programação. Meu foco técnico está em Python e modelagem de dados. Além disso, possuo um forte interesse nas inovações tecnológicas em IA, principalmente na área de PLN.
+Estou atualmente me dedicando à pesquisa e desenvolvimento, buscando aprimorar minhas habilidades de programação. Meu foco técnico está em Python e modelagem de dados. Além disso, possuo um forte interesse nas inovações tecnológicas em IA.
 
 Este GitHub é meu portfólio em construção. Aqui estou documentando alguns projetos desenvolvidos ao longo da minha jornada de estudante. Sinta-se à vontade para explorar!
 
@@ -15,14 +15,6 @@ Este GitHub é meu portfólio em construção. Aqui estou documentando alguns pr
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izadora-candotti/)  
 
 
- 
-<!--
-
-Olá, eu sou a Iza!
-
-Estou atualmente me dedicando a construir uma base sólida de conhecimento sobre **programação** e **ciência de dados**, com foco no estudo de Python.
-
-Este GitHub é meu portfólio em construção. Aqui estou documentando alguns projetos desenvolvidos ao longo da minha jornada. Sinta-se à vontade para explorar!
 
 
 ## 📈 GitHub Stats
