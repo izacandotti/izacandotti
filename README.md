@@ -14,14 +14,3 @@ Este GitHub é meu portfólio em construção. Aqui estou documentando alguns pr
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izadora-candotti/)  
 
-
-
-
-## 📈 GitHub Stats
-<div align="center">
-  
-![Iza's GitHub stats](https://github-readme-stats.vercel.app/api?username=izacandotti&show_icons=true&theme=tokyonight)  
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izacandotti&layout=compact&theme=tokyonight) (top linguagens)  --> 
-
----
-
